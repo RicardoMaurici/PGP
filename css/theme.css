@@ -71,6 +71,22 @@ body {
   border-radius: 4px;
 }
 
+.edital-btn {
+  background-color: #DBB75A;
+  cursor: pointer;
+  color: #FFF;
+  display: block;
+  padding: 10px 15px;
+}
+
+.inscricao-btn {
+  background-color: #DBB75A;
+  cursor: pointer;
+  color: #FFF;
+  display: block;
+  padding: 10px 15px;
+}
+
 .nav-botao:hover{
   background-color: #e5e5e5;
 }
@@ -79,12 +95,17 @@ body {
   margin-top: 28px;
 }
 
-.apoio {
+.realizacao {
  margin-top: 0;
- position: absolute;
+ 
 }
 
-.realizacao {
+.tamanho-img-realizacao{
+  height:5em; 
+  width:9em;
+}
+
+.apoio {
   width: 100px;
   margin-left: 20em;
   position: absolute;
